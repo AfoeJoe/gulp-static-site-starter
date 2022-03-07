@@ -1,0 +1,10 @@
+@import 'fonts';
+
+body {
+  font-size: 50px;
+  font-family: 'Courier New', Courier, monospace;
+  background: url('@img/cover.jpeg');
+  span {
+    color: red;
+  }
+}
